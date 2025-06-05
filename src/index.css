@@ -1,0 +1,12 @@
+@import "tailwindcss";
+ @plugin "daisyui" {
+   themes: dark --default;
+ }
+
+ @theme{
+  --color-form-1: #212936;
+  --color-ph-1: #394051;
+  --color-pri-1: #360138;
+  --color-sec-1: #7F01F3;
+  --color-text-1: #E7D9E8;
+ }
